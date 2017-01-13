@@ -6,8 +6,9 @@ PPC management & Google AdWords specialists services along with landing page des
 ## [HashNode](https://hashnode.com/)
 Hashnode is a network for software developers to discuss technical problems, share solutions, connect and hang out with developers from around the world.
 
-## [Invision](https://projects.invisionapp.com)
+## [Invision](https://invisionapp.com)
 The world's leading prototyping, collaboration & workflow platform.
+> [Projects](https://projects.invisionapp.com) / [Support](https://support.invisionapp.com/hc/en-us)
 
 ## [Calendly](https://calendly.com)
 Simple, beautiful scheduling.
@@ -30,9 +31,6 @@ Work together to quickly design, prototype, document and test APIs
 
 ## [API Matic](https://apimatic.io/)
 Lets you define APIs and generate SDKs for more than 10 languages. With our editor, you can define APIs without ever writing a single line of code and generate SDKs for them effortlessly.
-
-## [Invision App](https://invisionapp.com)
-> [Support](https://support.invisionapp.com/hc/en-us)
 
 ## [Stripe](https://stripe.com/)
 Stripe is the best software platform for running an internet business. We handle billions of dollars every year for forward-thinking businesses around the world.
