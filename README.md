@@ -14,6 +14,8 @@ Simple, beautiful scheduling.
 
 ## [TypeForm](https://www.typeform.com/)
 A beautiful way to interact with users.
+[WebHooks](https://www.typeform.com/help/webhooks)
+Where do you want your typeform’s data to be sent? Get every submission sent straight to a compatible web app or URL as soon as it’s submitted.
 
 ## [API Blueprint](https://apiblueprint.org/)
 Is simple and accessible to everybody involved in the API lifecycle. Its syntax is concise yet expressive. With API Blueprint you can quickly design and prototype APIs to be created or document and test already deployed mission-critical APIs.
