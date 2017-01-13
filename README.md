@@ -2,7 +2,7 @@
 
 [Medium](https://medium.com/)
 
-[HashNode](https://hashnode.com/) is a network for software developers to discuss technical problems, share solutions, connect and hang out with developers from around the world.
+[HashNode](https://hashnode.com/) - is a network for software developers to discuss technical problems, share solutions, connect and hang out with developers from around the world.
 
 # Tools
 
