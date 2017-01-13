@@ -2,6 +2,7 @@
 # ARTICLES
 > [Video](http://blog.invisionapp.com/category/video/)<br />
 
+
 [Design with Developers in Mind](http://blog.invisionapp.com/design-with-developers-in-mind/)
 
 [Using Content Marketing to Craft a Personal Brand](http://blog.invisionapp.com/content-marketing-personal-brand/)
