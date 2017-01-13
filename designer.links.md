@@ -13,6 +13,6 @@ ___
 [NOW UI KIT](https://www.invisionapp.com/now)<br />
 A beautiful cross-platform UI kit for Photoshop and Sketch.
 
-[InVision Blog](http://blog.invisionapp.com/) | Category: [Videos](http://blog.invisionapp.com/category/video/)
+[InVision Blog](http://blog.invisionapp.com/) | Category: [Video](http://blog.invisionapp.com/category/video/)<br />
 [CSS Design Awards](http://www.cssdesignawards.com/)<br />
 [UpLabs](https://www.uplabs.com/)<br />
