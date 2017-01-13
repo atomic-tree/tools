@@ -7,6 +7,9 @@
 
 [RequestBin](http://requestb.in/) gives you a URL that will collect requests made to it and let you inspect them in a human-friendly way. Use RequestBin to see what your HTTP client is sending or to inspect and debug webhook requests.
 
+[JWT](https://jwt.io/)
+JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
+
 [GraphQL](http://graphql.org/) is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
 
 [Pusher](https://pusher.com/) is a simple hosted API for quickly, easily and securely integrating realtime bi-directional functionality via WebSockets to web and mobile apps, or any other Internet connected device.
