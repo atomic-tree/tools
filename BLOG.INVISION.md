@@ -5,6 +5,7 @@
 
 [Using Content Marketing to Craft a Personal Brand](http://blog.invisionapp.com/content-marketing-personal-brand/)
 
-[NOW UI KIT](https://www.invisionapp.com/now) A beautiful cross-platform UI kit.
+[NOW UI KIT](https://www.invisionapp.com/now)
+A beautiful cross-platform UI kit.
 
 Download all 52 templates, 35 custom icons, and 180+ UI elements free for Photoshop and Sketch.
