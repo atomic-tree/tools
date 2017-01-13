@@ -2,6 +2,7 @@
 
 [Medium](https://medium.com/)
 
+[HashNode](https://hashnode.com/)
 
 # Tools
 
