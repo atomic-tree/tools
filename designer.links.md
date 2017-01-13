@@ -7,7 +7,7 @@
 
 [Using Content Marketing to Craft a Personal Brand](http://blog.invisionapp.com/content-marketing-personal-brand/)
 
-[How to make the perfect diffused drop shadow](http://blog.invisionapp.com/how-to-make-the-perfect-diffused-drop-shadow/)<br />
+[How to Make The Perfect Diffused Drop Shadow](http://blog.invisionapp.com/how-to-make-the-perfect-diffused-drop-shadow/)<br />
 
 ___
 
