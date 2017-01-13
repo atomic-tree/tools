@@ -8,8 +8,8 @@ Hashnode is a network for software developers to discuss technical problems, sha
 
 ## [InVision](https://invisionapp.com)
 The world's leading prototyping, collaboration & workflow platform.<br />
-[Projects](https://projects.invisionapp.com)<br />
-> [Support](https://support.invisionapp.com/hc/en-us)
+> [Projects](https://projects.invisionapp.com) / [Learn](https://projects.invisionapp.com/d/main#/learn) / [Support](https://support.invisionapp.com/hc/en-us)
+ 
 
 ## [Calendly](https://calendly.com)
 Simple, beautiful scheduling.
