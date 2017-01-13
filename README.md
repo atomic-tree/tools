@@ -7,8 +7,9 @@ PPC management & Google AdWords specialists services along with landing page des
 Hashnode is a network for software developers to discuss technical problems, share solutions, connect and hang out with developers from around the world.
 
 ## [InVision](https://invisionapp.com)
-The world's leading prototyping, collaboration & workflow platform.
-> [Projects](https://projects.invisionapp.com) / [Support](https://support.invisionapp.com/hc/en-us)
+The world's leading prototyping, collaboration & workflow platform.<br />
+[Projects](https://projects.invisionapp.com)<br />
+> [Support](https://support.invisionapp.com/hc/en-us)
 
 ## [Calendly](https://calendly.com)
 Simple, beautiful scheduling.
