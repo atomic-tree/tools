@@ -1,5 +1,9 @@
-# Services
+# Tools
 [Pusher](https://pusher.com/) is a simple hosted API for quickly, easily and securely integrating realtime bi-directional functionality via WebSockets to web and mobile apps, or any other Internet connected device.
+
+[RequestBin](http://requestb.in/) gives you a URL that will collect requests made to it and let you inspect them in a human-friendly way. Use RequestBin to see what your HTTP client is sending or to inspect and debug webhook requests.
+
+ Create a RequestBin
 
 # Resources
 
