@@ -14,8 +14,9 @@ Simple, beautiful scheduling.
 
 ## [TypeForm](https://www.typeform.com/)
 A beautiful way to interact with users.
+[Configure](https://www.typeform.com/help/category/configure/)
+[Developers](https://www.typeform.com/help/category/developers/)
 
-[WebHooks](https://www.typeform.com/help/webhooks) is simply a notification sent over the web, which is triggered automatically whenever a specific event occurs.
 
 ## [API Blueprint](https://apiblueprint.org/)
 Is simple and accessible to everybody involved in the API lifecycle. Its syntax is concise yet expressive. With API Blueprint you can quickly design and prototype APIs to be created or document and test already deployed mission-critical APIs.
