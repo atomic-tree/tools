@@ -1,5 +1,5 @@
 [InVision Blog](http://blog.invisionapp.com/) - Thoughts on Users, Experience, Design.
-# DESIGN ARTICLES
+# ARTICLES
 > [Video](http://blog.invisionapp.com/category/video/)<br />
 
 [Design with Developers in Mind](http://blog.invisionapp.com/design-with-developers-in-mind/)
