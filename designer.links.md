@@ -1,4 +1,5 @@
 # DESIGN ARTICLES
+[InVision](http://blog.invisionapp.com/) / [Video](http://blog.invisionapp.com/category/video/)<br />
 
 [Design with Developers in Mind](http://blog.invisionapp.com/design-with-developers-in-mind/)
 
@@ -6,14 +7,14 @@
 
 [How to make custom icons in Sketch using boolean operations](http://blog.invisionapp.com/how-to-make-custom-icons-in-sketch-using-boolean-operations/)
 
- [How to make the perfect diffused drop shadow](http://blog.invisionapp.com/how-to-make-the-perfect-diffused-drop-shadow/)<br />
+[How to make the perfect diffused drop shadow](http://blog.invisionapp.com/how-to-make-the-perfect-diffused-drop-shadow/)<br />
 
 ___
 
 [NOW UI KIT](https://www.invisionapp.com/now)<br />
 A beautiful cross-platform UI kit for Photoshop and Sketch.
 
-[InVision](http://blog.invisionapp.com/) / [Video](http://blog.invisionapp.com/category/video/)<br />
+
 
 [CSS Design Awards](http://www.cssdesignawards.com/)<br />
 [UpLabs](https://www.uplabs.com/)<br />
