@@ -1,4 +1,5 @@
-# [BLOG](http://blog.invisionapp.com/): HOW TO BE AN AMAZING DESIGNER
+# HOW TO BE AN AMAZING DESIGNER
+[BLOG](http://blog.invisionapp.com/)
 
 [Design with Developers in Mind](http://blog.invisionapp.com/design-with-developers-in-mind/)
 
