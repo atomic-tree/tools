@@ -14,7 +14,7 @@ Simple, beautiful scheduling.
 
 ## [TypeForm](https://www.typeform.com/)
 A beautiful way to interact with users.
-[WebHooks](https://www.typeform.com/help/webhooks)
+![WebHooks](https://www.typeform.com/help/webhooks)
 Where do you want your typeform’s data to be sent? Get every submission sent straight to a compatible web app or URL as soon as it’s submitted.
 
 ## [API Blueprint](https://apiblueprint.org/)
