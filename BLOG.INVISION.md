@@ -5,7 +5,7 @@
 
 [Using Content Marketing to Craft a Personal Brand](http://blog.invisionapp.com/content-marketing-personal-brand/)
 
-[NOW UI KIT](https://www.invisionapp.com/now)<br />
+[NOW UI KIT](https://www.invisionapp.com/now)
 
 A beautiful cross-platform UI kit.
 
