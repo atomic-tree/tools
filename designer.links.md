@@ -1,4 +1,4 @@
-[Blog InVision](http://blog.invisionapp.com/)<br />
+
 # ARTICLES
 
 [Design with Developers in Mind](http://blog.invisionapp.com/design-with-developers-in-mind/)
@@ -10,5 +10,6 @@ ___
 [NOW UI KIT](https://www.invisionapp.com/now)<br />
 A beautiful cross-platform UI kit for Photoshop and Sketch.
 
+[Blog InVision](http://blog.invisionapp.com/)<br />
 [Momentum](http://momentumdesignlab.com/)<br />
 [CSS Design Awards](http://www.cssdesignawards.com/)<br />
