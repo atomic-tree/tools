@@ -14,8 +14,8 @@ Simple, beautiful scheduling.
 
 ## [TypeForm](https://www.typeform.com/)
 A beautiful way to interact with users.
-[Configure](https://www.typeform.com/help/category/configure/)
-[Developers](https://www.typeform.com/help/category/developers/)
+
+[Configure](https://www.typeform.com/help/category/configure/) / [Developers](https://www.typeform.com/help/category/developers/)
 
 
 ## [API Blueprint](https://apiblueprint.org/)
