@@ -1,4 +1,4 @@
-[InVision Blog](http://blog.invisionapp.com/)
+[InVision Blog](http://blog.invisionapp.com/) - Thoughts on Users, Experience, and Design.
 # DESIGN ARTICLES
 > [Video](http://blog.invisionapp.com/category/video/)<br />
 
