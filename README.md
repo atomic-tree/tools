@@ -2,7 +2,8 @@
 
 [Medium](https://medium.com/)
 
-[HashNode](https://hashnode.com/)
+#### [HashNode](https://hashnode.com/)
+Hashnode is a network for software developers to discuss technical problems, share solutions, connect and hang out with developers from around the world.
 
 # Tools
 
@@ -20,9 +21,6 @@
 
 ## [KlientBoost](https://klientboost.com/)
 PPC management & Google AdWords specialists services along with landing page design to help clients generate new leads, reach their goals and grow their business.
-
-## [HashNode](https://hashnode.com/)
-Hashnode is a network for software developers to discuss technical problems, share solutions, connect and hang out with developers from around the world.
 
 ## [InVision](https://invisionapp.com)
 The world's leading prototyping, collaboration & workflow platform.<br />
