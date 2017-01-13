@@ -6,7 +6,7 @@
 
 # Tools
 
-[RequestBin](http://requestb.in/) gives you a URL that will collect requests made to it and let you inspect them in a human-friendly way. Use RequestBin to see what your HTTP client is sending or to inspect and debug webhook requests.
+[RequestBin](http://requestb.in/) - gives you a URL that will collect requests made to it and let you inspect them in a human-friendly way. Use it to see what your HTTP client is sending or to inspect and debug webhook requests.
 
 [API Blueprint](https://apiblueprint.org/) - is simple and accessible to everybody involved in the API lifecycle. Its syntax is concise yet expressive. With API Blueprint you can quickly design and prototype APIs to be created or document and test already deployed mission-critical APIs.
 
@@ -16,14 +16,13 @@ instant deploy, collaborative build, and debugging tools for integration.
 [Apiary](https://apiary.io/) - powerful API Design Stack. Built for Developers.
 Work together to quickly design, prototype, document and test APIs
 
-## [API Matic](https://apimatic.io/)
-Lets you define APIs and generate SDKs for more than 10 languages. With our editor, you can define APIs without ever writing a single line of code and generate SDKs for them effortlessly.
+[API Matic](https://apimatic.io/) - lets you define APIs and generate SDKs for more than 10 languages. With our editor, you can define APIs without ever writing a single line of code and generate SDKs for them effortlessly.
 
-[JSON Web Tokens (JWT)](https://jwt.io/) are an open, industry standard [RFC 7519](https://tools.ietf.org/html/rfc7519) method for representing claims securely between two parties.
+[JSON Web Tokens (JWT)](https://jwt.io/) - are an open, industry standard [RFC 7519](https://tools.ietf.org/html/rfc7519) method for representing claims securely between two parties.
 
-[GraphQL](http://graphql.org/) is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
+[GraphQL](http://graphql.org/) - is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
 
-[Pusher](https://pusher.com/) is a simple hosted API for quickly, easily and securely integrating realtime bi-directional functionality via WebSockets to web and mobile apps, or any other Internet connected device.
+[Pusher](https://pusher.com/) - is a simple hosted API for quickly, easily and securely integrating realtime bi-directional functionality via WebSockets to web and mobile apps, or any other Internet connected device.
 
 
 
