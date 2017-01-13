@@ -1,5 +1,5 @@
 
-# Articles
+# Entries
 [Design with Developers in Mind](http://blog.invisionapp.com/design-with-developers-in-mind/)<br />
 [Using Content Marketing to Craft a Personal Brand](http://blog.invisionapp.com/content-marketing-personal-brand/)<br />
 
