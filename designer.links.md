@@ -3,11 +3,8 @@
 > [Video](http://blog.invisionapp.com/category/video/)<br />
 
 
-[Design with Developers in Mind](http://blog.invisionapp.com/design-with-developers-in-mind/)
-
-[Using Content Marketing to Craft a Personal Brand](http://blog.invisionapp.com/content-marketing-personal-brand/)
-
-[How to Make The Perfect Diffused Drop Shadow](http://blog.invisionapp.com/how-to-make-the-perfect-diffused-drop-shadow/)<br />
+[Design with Developers in Mind](http://blog.invisionapp.com/design-with-developers-in-mind/)<br />
+[Using Content Marketing to Craft a Personal Brand](http://blog.invisionapp.com/content-marketing-personal-brand/)<br />
 
 ___
 
