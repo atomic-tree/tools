@@ -11,6 +11,6 @@
 ## [GetSandBox](https://getsandbox.com/)
 
 ## [Apiary](https://apiary.io/)
-Powerful API Design Stack. Built for Developers.
+Powerful API Design Stack. Built for Developers. Work together to quickly design, prototype, document and test APIs
 
 ## [Stripe](https://stripe.com/)
