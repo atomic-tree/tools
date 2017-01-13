@@ -1,4 +1,4 @@
-# Website
+# Resources
 
 ## [KlientBoost](https://klientboost.com/)
 PPC management & Google AdWords specialists services along with landing page design to help clients generate new leads, reach their goals and grow their business.
