@@ -1,8 +1,7 @@
-[InVision](http://blog.invisionapp.com/)<br />
 [Momentum](http://momentumdesignlab.com/)<br />
 [CSS Design Awards](http://www.cssdesignawards.com/)<br />
 
-
+[InVision](http://blog.invisionapp.com/)<br />
 # HOW TO BE AN AMAZING DESIGNER
 
 [Design with Developers in Mind](http://blog.invisionapp.com/design-with-developers-in-mind/)
