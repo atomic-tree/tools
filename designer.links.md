@@ -10,7 +10,7 @@ A beautiful cross-platform UI kit for Photoshop and Sketch.
 
 ___
 
-[InVision Blog](http://blog.invisionapp.com/)
+[InVision Blog](http://blog.invisionapp.com/)<br />
 [CSS Design Awards](http://www.cssdesignawards.com/)<br />
 [UpLabs](https://www.uplabs.com/)<br />
 [Design+Code](https://designcode.io/)<br />
