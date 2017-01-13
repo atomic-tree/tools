@@ -12,9 +12,9 @@ The world's leading prototyping, collaboration & workflow platform.
 ## [Calendly](https://calendly.com)
 Simple, beautiful scheduling.
 
-## [TypeForm](https://www.typeform.com/) [Help](https://www.typeform.com/help/)
+## [TypeForm](https://www.typeform.com/) 
 A beautiful way to interact with users.<br />
-> [Configure](https://www.typeform.com/help/category/configure/) / [Developers](https://www.typeform.com/help/category/developers/)
+> [Help](https://www.typeform.com/help/) / [Configure](https://www.typeform.com/help/category/configure/) / [Developers](https://www.typeform.com/help/category/developers/)
 
 
 ## [API Blueprint](https://apiblueprint.org/)
