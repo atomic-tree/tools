@@ -1,5 +1,6 @@
 # DESIGN ARTICLES
-[InVision](http://blog.invisionapp.com/) > [Video](http://blog.invisionapp.com/category/video/)<br />
+[InVision](http://blog.invisionapp.com/)
+> [Video](http://blog.invisionapp.com/category/video/)<br />
 
 [Design with Developers in Mind](http://blog.invisionapp.com/design-with-developers-in-mind/)
 
