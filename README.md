@@ -9,6 +9,8 @@
 ## [TypeForm](https://www.typeform.com/)
 
 ## [GetSandBox](https://getsandbox.com/)
+Quick and easy mock RESTful API and SOAP webservices. Generate from API definitions,
+instant deploy, collaborative build, and debugging tools for integration.
 
 ## [Apiary](https://apiary.io/)
 Powerful API Design Stack. Built for Developers.
