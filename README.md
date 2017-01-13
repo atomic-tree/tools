@@ -1,5 +1,5 @@
-# Services
-[Pusher](https://pusher.com/) - Build Apps, Not Infrastructure.
+# API's
+[Pusher](https://pusher.com/) is a simple hosted API for quickly, easily and securely integrating realtime bi-directional functionality via WebSockets to web and mobile apps, or any other Internet connected device.
 
 # Resources
 
