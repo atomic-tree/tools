@@ -56,3 +56,4 @@ Stripe is the best software platform for running an internet business. We handle
 
 [The Future of Authentication: Tokens](https://medium.com/composui/the-future-of-authentication-tokens-d2c52b210df3#.4sdz7051w)<br />
 [What is a JSON Web Token?](https://medium.com/myplanet-musings/what-is-a-json-web-token-2193f383e963#.wemolmnxz)<br />
+[Cookies vs Tokens: The Definitive Guide](https://auth0.com/blog/cookies-vs-tokens-definitive-guide/?utm_source=medium&utm_medium=sc&utm_campaign=cookies_vs_tokens)<br />
