@@ -49,4 +49,10 @@ Lets you define APIs and generate SDKs for more than 10 languages. With our edit
 Stripe is the best software platform for running an internet business. We handle billions of dollars every year for forward-thinking businesses around the world.
 
 # Tutorials
-[GraphQL with Redux](https://blog.pusher.com/graphql-with-redux/)
+[GraphQL with Redux](https://blog.pusher.com/graphql-with-redux/)<br />
+[Getting Started with Redux and GraphQL](https://medium.com/@thisbejim/getting-started-with-redux-and-graphql-8384b3b25c56#.u3gs3vjke)<br />
+[Thinking in Redux (when all you’ve known is MVC)](https://hackernoon.com/thinking-in-redux-when-all-youve-known-is-mvc-c78a74d35133#.gfzr8pvxc)<br />
+[Timers in React Apps with Redux](https://medium.com/@machadogj/timers-in-react-with-redux-apps-9a5a722162e8#.194y4hx44)<br />
+
+[The Future of Authentication: Tokens](https://medium.com/composui/the-future-of-authentication-tokens-d2c52b210df3#.4sdz7051w)<br />
+[What is a JSON Web Token?](https://medium.com/myplanet-musings/what-is-a-json-web-token-2193f383e963#.wemolmnxz)<br />
