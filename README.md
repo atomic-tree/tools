@@ -7,8 +7,9 @@
 ## [Calendly](https://calendly.com)
 
 ## [TypeForm](https://www.typeform.com/)
+A beautiful way to interact with users.
 
-## [GetSandBox](https://getsandbox.com/)
+## [Sandbox](https://getsandbox.com/)
 Quick and easy mock RESTful API and SOAP webservices. Generate from API definitions,
 instant deploy, collaborative build, and debugging tools for integration.
 
