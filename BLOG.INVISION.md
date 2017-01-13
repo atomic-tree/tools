@@ -5,4 +5,4 @@
 [Using Content Marketing to Craft a Personal Brand](http://blog.invisionapp.com/content-marketing-personal-brand/)
 
 
-> [Blog InVision](blog.invisionapp.com)
+[InVision Blog](http://blog.invisionapp.com/)
