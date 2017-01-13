@@ -7,8 +7,6 @@
 
 [Using Content Marketing to Craft a Personal Brand](http://blog.invisionapp.com/content-marketing-personal-brand/)
 
-[How to make custom icons in Sketch using boolean operations](http://blog.invisionapp.com/how-to-make-custom-icons-in-sketch-using-boolean-operations/)
-
 [How to make the perfect diffused drop shadow](http://blog.invisionapp.com/how-to-make-the-perfect-diffused-drop-shadow/)<br />
 
 ___
