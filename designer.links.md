@@ -14,7 +14,7 @@ ___
 A beautiful cross-platform UI kit for Photoshop and Sketch.
 
 [InVision Blog](http://blog.invisionapp.com/)<br />
-[Videos](http://blog.invisionapp.com/category/video/)<br />
+* [Videos](http://blog.invisionapp.com/category/video/)<br />
 
 [CSS Design Awards](http://www.cssdesignawards.com/)<br />
 [UpLabs](https://www.uplabs.com/)<br />
