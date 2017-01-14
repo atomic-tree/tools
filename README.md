@@ -16,7 +16,7 @@
 
 # Tools
 
-[Nomad Project](https://www.nomadproject.io/)
+[Nomad Project](https://www.nomadproject.io/) - users submit simple high-level jobs and Nomad handles scheduling, deploying and upgrading applications.
 
 [RequestBin](http://requestb.in/) - gives you a URL that will collect requests made to it and let you inspect them in a human-friendly way. Use it to see what your HTTP client is sending or to inspect and debug webhook requests.
 
