@@ -28,6 +28,9 @@ Work together to quickly design, prototype, document and test APIs
 
 [API Matic](https://apimatic.io/) - lets you define APIs and generate SDKs for more than 10 languages. With our editor, you can define APIs without ever writing a single line of code and generate SDKs for them effortlessly.
 
+## [Stripe](https://stripe.com/)
+Stripe is the best software platform for running an internet business. We handle billions of dollars every year for forward-thinking businesses around the world.
+
 [JSON Web Tokens (JWT)](https://jwt.io/) - are an open, industry standard [RFC 7519](https://tools.ietf.org/html/rfc7519) method for representing claims securely between two parties.
 
 [GraphQL](http://graphql.org/) - is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
@@ -54,9 +57,6 @@ A beautiful way to interact with users.<br />
 > [Help](https://www.typeform.com/help/) / [Configure](https://www.typeform.com/help/category/configure/) / [Developers](https://www.typeform.com/help/category/developers/)
 
 
-
-## [Stripe](https://stripe.com/)
-Stripe is the best software platform for running an internet business. We handle billions of dollars every year for forward-thinking businesses around the world.
 
 # Tutorials
 [GraphQL with Redux](https://blog.pusher.com/graphql-with-redux/)<br />
