@@ -6,5 +6,5 @@ ___
 #### Resources
 [Documents](http://docs.servicestack.net/)
 
-#### Books
-[(Syncfusion) ServiceStack Succinctly, by Zoran Maksimovic](http://files2.syncfusion.com/Downloads/Ebooks/ServiceStack_Succinctly.pdf)
+#### Syncfusion Books
+[ServiceStack Succinctly](http://files2.syncfusion.com/Downloads/Ebooks/ServiceStack_Succinctly.pdf), by Zoran Maksimovic
