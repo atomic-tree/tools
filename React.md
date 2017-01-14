@@ -5,3 +5,5 @@ Redux is usually taught with synchronous actions – these are easier to underst
 
 ### [React Native Animations Using the Animated API](https://medium.com/react-native-training/react-native-animations-using-the-animated-api-ebe8e0669fae#.e331tywoo)
 The recommended way to animate in React Native for most cases is by using the Animated API.
+
+### [React’s Five Fingers of Death. Master these five concepts, then master React](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3)
