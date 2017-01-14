@@ -1,8 +1,8 @@
 # Articles
 
-[The S.O.L.I.D. Principles](http://www.blackwasp.co.uk/SOLIDPrinciples.aspx)
+### [The S.O.L.I.D. Principles](http://www.blackwasp.co.uk/SOLIDPrinciples.aspx)
 
-
+### [Design Patterns Articles](http://www.blackwasp.co.uk/DesignPatternsArticles.aspx)
 
 # YouTube
 
