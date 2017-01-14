@@ -4,7 +4,7 @@ ServiceStack is an open-source, Microsoft .NET and Mono REST web services framew
 an alternative to the WCF, ASP.NET MVC, and ASP.NET Web API frameworks. ServiceStack is
 particularly suitable for the development of REST web services.
 
-__
+---
 
 #### Resources
 [Documents](http://docs.servicestack.net/)
