@@ -4,6 +4,6 @@
 
 
 
-# YouTube / Microsoft
+# YouTube
 
 [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://www.youtube.com/watch?v=agkWYPUcLpg)
