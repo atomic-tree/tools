@@ -28,10 +28,8 @@ Work together to quickly design, prototype, document and test APIs
 
 [API Matic](https://apimatic.io/) - lets you define APIs and generate SDKs for more than 10 languages. With our editor, you can define APIs without ever writing a single line of code and generate SDKs for them effortlessly.
 
-[Stripe](https://stripe.com/)
-Stripe is the best software platform for running an internet business. We handle billions of dollars every year for forward-thinking businesses around the world.<br />
-[Examples](https://stripe.com/docs/examples)<br />
-Here are some example integrations and third-party guides for you to learn more about Stripe.
+[Stripe](https://stripe.com/) - is the best software platform for running an internet business. We handle billions of dollars every year for forward-thinking businesses around the world.<br />
+Here are some [example](https://stripe.com/docs/examples) integrations and third-party guides for you to learn more about Stripe.
 
 
 [JSON Web Tokens (JWT)](https://jwt.io/) - are an open, industry standard [RFC 7519](https://tools.ietf.org/html/rfc7519) method for representing claims securely between two parties.
