@@ -32,6 +32,8 @@ Work together to quickly design, prototype, document and test APIs
 Stripe is the best software platform for running an internet business. We handle billions of dollars every year for forward-thinking businesses around the world.
 > [Examples](https://stripe.com/docs/examples)
 
+___
+
 [JSON Web Tokens (JWT)](https://jwt.io/) - are an open, industry standard [RFC 7519](https://tools.ietf.org/html/rfc7519) method for representing claims securely between two parties.
 
 [GraphQL](http://graphql.org/) - is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
