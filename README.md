@@ -4,11 +4,17 @@
 
 [HashNode](https://hashnode.com/) - is a network for software developers to discuss technical problems, share solutions, connect and hang out with developers from around the world.
 
-# Team
+# Content
 
 [AirStory](http://www.airstory.co/) - The fastest way for your marketing team to create outstanding content.
 
+[Contentful](https://www.contentful.com/)
+
 [CosmicJS](https://cosmicjs.com) - API-first CMS for building content-powered apps in any programming language.
+
+[Instant](https://instant.cm/)
+
+[Wistia](https://wistia.com/)
 
 # Websites
 
