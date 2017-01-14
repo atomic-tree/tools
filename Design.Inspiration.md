@@ -1,4 +1,4 @@
-[InVision Blog](http://blog.invisionapp.com/)<br />
+[InVision](http://blog.invisionapp.com/)<br />
 [CSS Design Awards](http://www.cssdesignawards.com/)<br />
 [UpLabs](https://www.uplabs.com/)<br />
 [Design+Code](https://designcode.io/)<br />
