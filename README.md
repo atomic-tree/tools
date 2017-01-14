@@ -30,6 +30,7 @@ Work together to quickly design, prototype, document and test APIs
 
 ## [Stripe](https://stripe.com/)
 Stripe is the best software platform for running an internet business. We handle billions of dollars every year for forward-thinking businesses around the world.
+> [Examples](https://stripe.com/docs/examples)
 
 [JSON Web Tokens (JWT)](https://jwt.io/) - are an open, industry standard [RFC 7519](https://tools.ietf.org/html/rfc7519) method for representing claims securely between two parties.
 
