@@ -4,6 +4,10 @@
 
 [HashNode](https://hashnode.com/) - is a network for software developers to discuss technical problems, share solutions, connect and hang out with developers from around the world.
 
+# Websites
+
+[TechRepublic](http://www.techrepublic.com/)
+
 # Tools
 
 [RequestBin](http://requestb.in/) - gives you a URL that will collect requests made to it and let you inspect them in a human-friendly way. Use it to see what your HTTP client is sending or to inspect and debug webhook requests.
