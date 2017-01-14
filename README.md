@@ -40,7 +40,8 @@ ___
 
 [Pusher](https://pusher.com/) - is a simple hosted API for quickly, easily and securely integrating realtime bi-directional functionality via WebSockets to web and mobile apps, or any other Internet connected device.
 
-
+# Books
+[Syncfusion Tech Portal](https://www.syncfusion.com/resources/techportal)
 
 # Resources
 
