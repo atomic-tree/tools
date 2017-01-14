@@ -16,8 +16,6 @@
 
 # Tools
 
-[DataBox](https://databox.com/) - don't waste time trying to find the metrics most important to you in Excel sheets, databases or cloud applications. Bring them all together in one place... in minutes.
-
 [Nomad Project](https://www.nomadproject.io/) - users submit simple high-level jobs and Nomad handles scheduling, deploying and upgrading applications.
 
 [RequestBin](http://requestb.in/) - gives you a URL that will collect requests made to it and let you inspect them in a human-friendly way. Use it to see what your HTTP client is sending or to inspect and debug webhook requests.
@@ -34,6 +32,7 @@ Work together to quickly design, prototype, document and test APIs
 
 [Stripe](https://stripe.com/) - is the best software platform for running an internet business. We handle billions of dollars every year for forward-thinking businesses around the world. Here are some [example](https://stripe.com/docs/examples) integrations and third-party guides for you to learn more about Stripe.
 
+[DataBox](https://databox.com/) - don't waste time trying to find the metrics most important to you in Excel sheets, databases or cloud applications. Bring them all together in one place... in minutes.
 
 [JSON Web Tokens (JWT)](https://jwt.io/) - are an open, industry standard [RFC 7519](https://tools.ietf.org/html/rfc7519) method for representing claims securely between two parties.
 
