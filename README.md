@@ -1,6 +1,6 @@
 # Networks
 
-[Medium](https://medium.com/)
+[Medium](https://medium.com/) - a place to read, write, and interact with the stories that matter most to you.
 
 [HashNode](https://hashnode.com/) - is a network for software developers to discuss technical problems, share solutions, connect and hang out with developers from around the world.
 
