@@ -6,7 +6,7 @@
 
 # Team
 
-[AirStory](http://www.airstory.co/)
+[AirStory](http://www.airstory.co/) - The fastest way for your marketing team to create outstanding content.
 
 # Websites
 
