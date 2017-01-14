@@ -5,3 +5,5 @@
 [Everything You Wanted to Know About JavaScript Scope](https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
 
 [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+[Coding Without Loops](http://www.codereadability.com/coding-without-loops/)
