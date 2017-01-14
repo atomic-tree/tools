@@ -16,6 +16,8 @@
 
 # Tools
 
+[Nomad Project](https://www.nomadproject.io/)
+
 [RequestBin](http://requestb.in/) - gives you a URL that will collect requests made to it and let you inspect them in a human-friendly way. Use it to see what your HTTP client is sending or to inspect and debug webhook requests.
 
 [API Blueprint](https://apiblueprint.org/) - is simple and accessible to everybody involved in the API lifecycle. Its syntax is concise yet expressive. With API Blueprint you can quickly design and prototype APIs to be created or document and test already deployed mission-critical APIs.
